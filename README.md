@@ -3,7 +3,7 @@ Computational Virology Workshop!
 
 
 | Topics |  Timing |
---------------------
+| ---- | --- |
 | Welcome and Introductions; Server Onboarding | Day 1: 9:00 - 9:25 |
 | Introduction to Cloud Computing | Day 1: 9:30-10:15 |
 | Introduction to Jupyter Notebooks | Day 1: 10:30 - 11:00 |
